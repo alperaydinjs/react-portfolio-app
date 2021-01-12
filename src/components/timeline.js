@@ -34,17 +34,7 @@ const timeline = () => {
                         SEO Account Executive at HYPE{' '}
                         <span> September 2020 - Present</span>
                       </h2>
-                      <p>
-                        I recently have joined the Juniper Networs as a Software
-                        Developer-Intern in the DevOps team. My major part of
-                        the work has been into the field of creating sustainable
-                        and flexible CI/CD (Continuous Integration & Continuous
-                        Development) pipelines which enables developers at
-                        Juniper to do rapid development. I am also exploring the
-                        role of container technology like Docker and
-                        container-orchrastation technologies like K8s, Swarm to
-                        create industry standard production environments.
-                      </p>
+                      <p></p>
                     </div>
                   </div>
                 </article>
@@ -64,15 +54,7 @@ const timeline = () => {
                       <h2>
                         Co-Founder ALPGAMER <span>November 2019 - Present</span>
                       </h2>
-                      <p>
-                        I have completed my higher secondary education with
-                        major subjects as Physics,Chemistry & Maths with 91
-                        merit. During my time at school, I have developed
-                        interest in solving complex problems of the fundamental
-                        physics which helped me to improve my understanding of
-                        any problem and also my mathematical skills to actually
-                        solve the problems.
-                      </p>
+                      <p></p>
                     </div>
                   </div>
                 </article>
@@ -93,15 +75,7 @@ const timeline = () => {
                         SEO and Wordpress Developer at M2L{' '}
                         <span>February 2020 - September 2020 </span>
                       </h2>
-                      <p>
-                        I am pursuing my under-graduation studies with major in
-                        I.C.T.(Information & Communication Technology). I have
-                        taken courses like DSA, OOPs, Computer Networks, IOT,
-                        Web-Data Management over the years and have better
-                        understanding of these subjects.I have also been part of
-                        S.B.G.(Student Body Govenance) scince my first year of
-                        college.
-                      </p>
+                      <p></p>
                     </div>
                   </div>
                 </article>
@@ -122,15 +96,7 @@ const timeline = () => {
                         SEO Intern at Bigbang Digital{' '}
                         <span>December 2019 - February 2020</span>
                       </h2>
-                      <p>
-                        I have completed my higher secondary education with
-                        major subjects as Physics,Chemistry & Maths with 91
-                        merit. During my time at school, I have developed
-                        interest in solving complex problems of the fundamental
-                        physics which helped me to improve my understanding of
-                        any problem and also my mathematical skills to actually
-                        solve the problems.
-                      </p>
+                      <p></p>
                     </div>
                   </div>
                 </article>
