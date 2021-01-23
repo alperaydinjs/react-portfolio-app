@@ -31,7 +31,7 @@ const timeline = () => {
                     </div>
                     <div className='timeline-label'>
                       <h2>
-                        SEO Account Executive at HYPE{' '}
+                        Jr. SEO Executive at HYPE{' '}
                         <span> September 2020 - Present</span>
                       </h2>
                       <p></p>
